@@ -39,6 +39,7 @@ header input {
     padding: 0.5rem 1rem;
     border-radius:3px;
     border:none;
+    font-family: inherit;
 }
 
 header button {
